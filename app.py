@@ -1,5 +1,6 @@
 ####### Import Libraries #############
 import streamlit as st
+import cufflinks as cf
 import pandas as pd
 import warnings
 warnings.filterwarnings("ignore")
