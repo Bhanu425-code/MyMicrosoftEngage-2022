@@ -1,7 +1,6 @@
 ####### Import Libraries #############
 import streamlit as st
 import pandas as pd
-import cufflinks as cf
 import warnings
 warnings.filterwarnings("ignore")
 import matplotlib.pyplot as plt
@@ -9,8 +8,6 @@ import numpy as np
 import joblib
 import os
 import seaborn as sns
-import pickle
-from tensorflow.keras.models import load_model
 st.set_page_config(layout="wide")
 imp=['Customer Segmentation','Price Prediction']
 
