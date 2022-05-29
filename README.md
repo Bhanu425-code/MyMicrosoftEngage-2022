@@ -19,7 +19,7 @@ The price of a car depends on a lot of factors like the goodwill of the brand of
  -"Price prediction" suggests the suitable price to the manufactured car by the given inputs like:
   Fuel Type, Number of Doors, Engine Location, Horsepower
   <br/>
-  It is also deployed on Streamlit for a while at [Link](https://share.streamlit.io/bhanu425-code/mymicrosoftengage-2022/main/app.py)
+  ## It is also deployed on Streamlit for a while at [Link](https://share.streamlit.io/bhanu425-code/mymicrosoftengage-2022/main/app.py)
   
   ## STEPS TO RUN MY APP IN LOCAL:
 
